@@ -44,7 +44,24 @@
 ### 5. File Handling and OOPS
 1. File + Classes Demo
 
-### 6. Projects
+#ADDITIONAL TOPICS : 
+
+### 6. Error Handling
+### 7. Functional Programming 
+
+### 8. Decorators
+
+### 9. Debugging
+
+### 10. Generators
+
+### 11. Regular Expressions
+
+### 12. Unit Testing
+
+------------------------------------------
+
+### 13. Projects
 1. Job Scheduler
 2. Email Project
 3. Hash Project
