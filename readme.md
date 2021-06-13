@@ -35,10 +35,11 @@ All the essential resources and template code needed to understand and practice 
 7. [Trees](/03.%20Data%20Structures/Trees)
 
 ### 4. 🛠 [Algorithms](/04.%20Algorithms/)
-1. [Dynamic Programming](/04.%20Algorithms/Dynamic%20Programming/)
-2. [Recursion](/04.%20Algorithms/Recursion/)
-3. [Sorting](/04.%20Algorithms/Sorting/)
-4. [Traversals](/04.%20Algorithms/Traversals)
+1. [Divide and Conquer](/04.%20Algorithms/Divide%20and%20Conquer/)
+2. [Dynamic Programming](/04.%20Algorithms/Dynamic%20Programming/)
+3. [Recursion](/04.%20Algorithms/Recursion/)
+4. [Sorting](/04.%20Algorithms/Sorting/)
+5. [Traversals](/04.%20Algorithms/Traversals)
 
 ### 5. 📂 [File Handling and OOPS](/05.%20File%20Handling%20and%20OOPS/)
 1. [File + Classes Demo](/05.%20File%20Handling%20and%20OOPS/file%2Bclasses.py)
