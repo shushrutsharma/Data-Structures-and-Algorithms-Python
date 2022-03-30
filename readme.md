@@ -72,3 +72,5 @@ All the essential resources and template code needed to understand and practice 
 3. [Hash Project](/13.%20Mini-Projects/hash_project)
 4. [Recursion Miniprojects](/13.%20Mini-Projects/recursion_miniprojects)
 5. [Runtime Analyser](/13.%20Mini-Projects/runtime_analyser)
+
+### 14. ❓ [Questions](/14.%20Questions/)
