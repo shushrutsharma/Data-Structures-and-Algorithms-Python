@@ -27,11 +27,11 @@ class MaxHeap:
 
 #Method to return the position of the left child for the node currently at pos
     def left_child(self, pos):
-        return 2 * pos
+        return (2 * pos) + 1
 
 #Method to return the position of the right child for the node currently at pos
     def right_child(self, pos):
-        return (2 * pos) + 1
+        return (2 * pos) + 2
 
 #Method that returns true if the passed node is a leaf node.
 #All the nodes in the second half of the heap(when viewed as an array) are leaf nodes.
@@ -83,8 +83,8 @@ class MaxHeap:
     def print_heap(self):
         for i in range(1, (self.size // 2) + 1):
             print(" PARENT : " + str(self.Heap[i]) + " LEFT CHILD : " +
-                  str(self.Heap[2 * i]) + " RIGHT CHILD : " +
-                  str(self.Heap[2 * i + 1]))
+                  str(self.Heap[(2 * i) + 1]) + " RIGHT CHILD : " +
+                  str(self.Heap[(2 * i) + 2]))
 
 #Method to remove and return the maximum element from the heap . The maximum element will be at the root.
 #So we will copy the element at the end of the heap into the root node and delete the last node, which will leave the heap property disturbed
