@@ -10,7 +10,7 @@ class TreeNode:
         self.right = right
 
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+    def isBalanced(self, root) -> bool:
         def dfs(root):
             if root is None: return [True, 0]
             
